@@ -7,7 +7,7 @@ const textConfig = {
     text4: "Nhớ suy nghĩ kĩ rồi chọn nhé :v",
     text5: "Ai thèm nhận quà chứ!",
     text6: "nhận quà",
-    text7: "Viết gì đó về anh đi (10 từ)",
+    text7: "Viết gì đó về tớ đi (10 từ)",
     text8: "Gửi",
     text9: "Hôm nay cậu đẹp trai quá đi <33",
     text10: "Anh biết mà ^^",
@@ -155,4 +155,5 @@ const textConfig = {
         });
       });
     });
+
   });
