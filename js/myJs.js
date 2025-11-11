@@ -1,7 +1,7 @@
 
 
 const textConfig = {
-    text1: "haloo cá iuu của tớ nha",
+    text1: "hello cậu iuu của tớ nha",
     text2: "Chúc cậu một ngày thật vui^^",
     text3: "cậu có muốn nhận quà không ._.",
     text4: "Nhớ suy nghĩ kĩ rồi chọn nhé :v",
@@ -157,4 +157,5 @@ const textConfig = {
     });
 
   });
+
 
